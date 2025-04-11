@@ -8,15 +8,8 @@ A full-stack application for managing a to-do list. This project uses a Node.js 
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+
 
 ---
 
@@ -46,13 +39,4 @@ A full-stack application for managing a to-do list. This project uses a Node.js 
 
 ---
 
-## Installation
 
-### Backend Setup
-
-1. **Clone the Repository and Install Dependencies:**
-
-   ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
-   cd todo-list-app/backend
-   npm install
